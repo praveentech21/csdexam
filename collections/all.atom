@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cascade-preset-2.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cascade-preset-2.myshopify.com/collections/all.atom"/>
+  <title>Cascade</title>
+  <updated>2022-07-31T15:39:03+10:00</updated>
+  <author>
+    <name>Cascade</name>
+  </author>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738635751508</id>
+    <published>2022-07-31T15:39:03+10:00</published>
+    <updated>2022-07-31T15:39:03+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-woven-hanger"/>
+    <title>Woven Hanger</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Woven_Hanger_Styled.jpg?v=1659245943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">'Woven Hanger ' is a hand - woven leather and ceramic plant hanger, the result of an exclusive collaboration with Melbourne-based leather craftswoman Kym Lightfoot.</span></p>
+<p><span data-mce-fragment="1">Designed and made in Melbourne from hand-glazed stoneware and hand-woven leather.<br>Available in two colours; Cloud and Ivory.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hangers</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738635751508</id>
+      <title>Cloud</title>
+      <s:price currency="AUD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738635751508</id>
+      <title>Ivory</title>
+      <s:price currency="AUD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738634801236</id>
+    <published>2022-07-31T15:36:35+10:00</published>
+    <updated>2022-07-31T15:36:35+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-terracotta-clay-pot-various-glazes"/>
+    <title>Terracotta Clay Pot | Various Glazes</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Stoneware_Styledcopy.jpg?v=1659245796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Handcrafted in Melbourne, with no two exactly alike, this planter showcases a simple yet striking form and pairs well with all manner of plant life.</span></p>
+<p><span data-mce-fragment="1">Our classic design reimagined with terracotta clay to perfectly complement Ivy Muse plant stands that have a pot hole approx. 190mm in diameter.<br><br>For flexibility, a subtle flat base allows the pot to free-stand on flat surfaces.<br>Designed and made in Melbourne from hand-glazed terracotta clay.<br>Ivy Muse pots are individually handcrafted, leading to slight variances in shape and colour. Available in Clay Dip and Poppyseed.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pots</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738634801236</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738634440788</id>
+    <published>2022-07-31T15:34:39+10:00</published>
+    <updated>2022-07-31T15:34:39+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-stevie-wall-hook"/>
+    <title>Stevie Wall Hook</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Stevie_Styled.jpg?v=1659245679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Attaching to the wall, 'Stevie' can team with a variety of hanging planters and can help maximise your wall space for plant-life.</span></p>
+<p><span data-mce-fragment="1">Our Stevie Wall Hook was created for those who love the idea of a hanging plant - but hate the idea of drilling into their ceiling. 'Stevie' can team with a variety of hanging planters and can help you to maximise your wall space for plant-life.<br><br>Designed and made in Melbourne from powder-coated steel.<br>Available in two sizes and in two colours; Black and White.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hangers</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738634440788</id>
+      <title>Small / Black</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738634440788</id>
+      <title>Small / White</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738634440788</id>
+      <title>Big / Black</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738634440788</id>
+      <title>Big / White</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738633424980</id>
+    <published>2022-07-31T15:31:49+10:00</published>
+    <updated>2022-07-31T15:31:49+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-prism"/>
+    <title>Prism</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Prism_Boheme_Styled_1.jpg?v=1659245509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Made in Melbourne from powder-coated steel, this plant stand is suited to a wide range of pot shapes and sizes; Larger pots and drip trays can sit flat on the wide surface area whilst smaller pots can sit within the triangular support.</span></p>
+<p><span>Beautiful, functional plant stands that encourage creativity with greenery. Designed and made in Melbourne from 8mm powder coated steel. Available in Black and White.</span><br><br><span>The Prism is suited to a wide range of pot shapes and sizes. Larger pots and drip trays can sit flat on the wide surface area whilst smaller pots can sit within the triangular support.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stands</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738633424980</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738632638548</id>
+    <published>2022-07-31T15:28:42+10:00</published>
+    <updated>2022-07-31T15:28:42+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-mini-plant-stake-sand"/>
+    <title>Mini Plant Stake</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Mini_Stakes_Sand.jpg?v=1659245323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Turn the natural beauty of your plants into a vertical work of art with this handmade powder-coated mini stake, ideal for small to medium plants.</span></p>
+<p><span>You asked for a mini sized plant stake - and we listened!</span><br><span>Introducing our latest labour of love, our Mini Plant Stake range!</span><br><br><span>Available in three unique designs for purchase individually.</span><br><span>Ideal for pots 10cm to 20cm.</span><br><span>Hand-crafted from 4mm powder-coated steel.</span><br><span>Designed in Melbourne.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stakes</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738632638548</id>
+      <title>Loop</title>
+      <s:price currency="AUD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738632638548</id>
+      <title>Arch</title>
+      <s:price currency="AUD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738632638548</id>
+      <title>Circle</title>
+      <s:price currency="AUD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738631557204</id>
+    <published>2022-07-31T15:25:33+10:00</published>
+    <updated>2022-07-31T15:25:33+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-malia"/>
+    <title>Malia</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Malia_Sanctury_Styled.jpg?v=1659245133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Give your plant a boost in height with this powder-coated steel plant stand, ideal for small spaces like bathrooms and kitchens.</span></p>
+<p><span>Beautiful, functional plant stands that allow you to get creative with your greenery.</span><br><br><span>Designed and made in Melbourne from 6mm powder coated steel. Available in Black, White and Limited Edition Stone *new*.</span><br><br><span>The Malia is suited to a wide range of botanical vessels including smaller pots and vases.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stands</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738631557204</id>
+      <title>Black</title>
+      <s:price currency="AUD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738631557204</id>
+      <title>White</title>
+      <s:price currency="AUD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738631557204</id>
+      <title>Stone</title>
+      <s:price currency="AUD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738630639700</id>
+    <published>2022-07-31T15:22:05+10:00</published>
+    <updated>2022-07-31T15:22:05+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-lumen"/>
+    <title>Lumen</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Lumen_Shadow_Styled_2.jpg?v=1659244926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Formed from one single piece of glass, ‘Lumen’ is a petite tabletop vessel designed to house small plants, flowers, open-air terrariums and other objects.</span></p>
+<p><span data-mce-fragment="1">Designed in Australia and crafted to the most exacting standards in Europe, Lumen showcases the natural beauty of plants all the while sharing an insight into their intricate growth.<br><br>Two colour options available: Shadow and Limited Edition Aubergine.<br><br>Lumen arrives fully gift packaged making it the perfect gift for yourself or others.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738630639700</id>
+      <title>Shadow</title>
+      <s:price currency="AUD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738630639700</id>
+      <title>Aubergine</title>
+      <s:price currency="AUD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738629820500</id>
+    <published>2022-07-31T15:18:49+10:00</published>
+    <updated>2022-07-31T15:18:49+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-harlequin"/>
+    <title>Harlequin</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Harlequin_SQ.jpg?v=1659244729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            230.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">With a striking graphic appearance this plant stand is best paired with equally eye-catching plants for maximum visual effect.</span></p>
+<p><span data-mce-fragment="1">Beautiful, functional plant stands that encourage creativity with greenery.<br><br>Designed and made in Melbourne from 6mm powder coated steel. Available in Black, White and Limited Edition Stone *new*.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stands</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738629820500</id>
+      <title>Black</title>
+      <s:price currency="AUD">230.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738629820500</id>
+      <title>White</title>
+      <s:price currency="AUD">230.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738629820500</id>
+      <title>Stone</title>
+      <s:price currency="AUD">230.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738627592276</id>
+    <published>2022-07-31T15:11:28+10:00</published>
+    <updated>2022-07-31T15:11:28+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-halo"/>
+    <title>Halo</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Halo_Styled.jpg?v=1659244289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Available in three complementary sizes, this powder-coated plant stand is the ideal combo for any dull corner at home.</span></p>
+<p><span>Beautiful, functional plant stands that encourage creativity with greenery.</span><br><br><span>Designed and made in Melbourne from 6mm powder coated steel. Available in Black and White.</span><br><br><span>The Halo is our first stand offered in three sizes; small, medium and large.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stands</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738627592276</id>
+      <title>Black / Small</title>
+      <s:price currency="AUD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738627592276</id>
+      <title>Black / Medium</title>
+      <s:price currency="AUD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738627592276</id>
+      <title>Black / Large</title>
+      <s:price currency="AUD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738627592276</id>
+      <title>White / Small</title>
+      <s:price currency="AUD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738627592276</id>
+      <title>White / Medium</title>
+      <s:price currency="AUD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738627592276</id>
+      <title>White / Large</title>
+      <s:price currency="AUD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738626805844</id>
+    <published>2022-07-31T15:08:39+10:00</published>
+    <updated>2022-07-31T15:08:39+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-foundation"/>
+    <title>Foundation</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Foundation.jpg?v=1659244119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Suited to a wide range of pot shapes and sizes, this plant stand can hold larger pots on its flat, wide surface area whilst smaller pots can sit within the triangular support.</span></p>
+<div class="static-title">Product Details</div>
+<div class="static-content">Beautiful, functional plant stands that encourage creativity with greenery.<br><br>Designed and made in Melbourne from 8mm powder coated steel. Available in Black and White.<br><br>The Foundation is suited to a wide range of pot shapes and sizes. Larger pots can sit flat on the wide surface area whilst smaller pots can sit within the triangular support. The Foundation is designed to work especially well with 'Small' and 'Medium' sized pots.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stands</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738626805844</id>
+      <title>Black</title>
+      <s:price currency="AUD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738626805844</id>
+      <title>White</title>
+      <s:price currency="AUD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738625658964</id>
+    <published>2022-07-31T15:05:11+10:00</published>
+    <updated>2022-07-31T15:05:11+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-empire"/>
+    <title>Empire</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Empire_Styled.jpg?v=1659243912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Perfect for bare corners in your home, this plant stand nestles perfectly in any room, adding a touch of green and softening even the most modern interiors.</span></p>
+<p><span>Beautiful, functional plant stands that encourage creativity with greenery.</span><br><br><span>Designed and made in Melbourne from 6mm powder coated steel.</span><br><br><span>The Empire is suited to a wide range of botanical vessels including smaller pots, vases and plant bags.</span><br><span>It also features a lower cross bar which can house another plant or can be used as a display shelf for books, trinkets etc</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stands</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738625658964</id>
+      <title>Black</title>
+      <s:price currency="AUD">210.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738625658964</id>
+      <title>White</title>
+      <s:price currency="AUD">210.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738625658964</id>
+      <title>Forest Green</title>
+      <s:price currency="AUD">210.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738624741460</id>
+    <published>2022-07-31T15:01:50+10:00</published>
+    <updated>2022-07-31T15:01:50+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-cubby"/>
+    <title>Cubby</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Cubby_TableTop.jpg?v=1659243710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Create a striking green scene with this plant stand; designed to lift your plants for maximum impact.</span></p>
+<p><span>Beautiful, functional plant stands that encourage creativity with greenery.</span><br><span>Designed and made in Melbourne from 8mm powder coated steel.</span><br><span>Available in Black, White and Limited Edition Stone *new*.</span><br><span>The Cubby is suited to a wide range of pot shapes and sizes.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stands</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738624741460</id>
+      <title>Black</title>
+      <s:price currency="AUD">210.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738624741460</id>
+      <title>White</title>
+      <s:price currency="AUD">210.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738624741460</id>
+      <title>Stone</title>
+      <s:price currency="AUD">210.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738623889492</id>
+    <published>2022-07-31T14:58:35+10:00</published>
+    <updated>2022-07-31T14:58:35+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-chubby-tower-stand"/>
+    <title>Chubby Tower Stand</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Tower_Retreat_Styled.jpg?v=1659243516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            230.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Designed and made in Melbourne from 12mm powder-coated steel this plant stand works with a variety of pots but for a perfect fit and maximum impact pair with the Ivy Muse ‘Chubby’ Spun Metal Pot in Junior.</span></p>
+<p><span>Our popular Chubby Stand just got a makeover. You asked for more height. We listened.</span><br><br><span>Designed and made in Melbourne from 12mm powder-coated steel.</span><br><span>Available in four colours; Black, White, Limited Edition Charcoal *new* and Limited Edition Sage *new*.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stands</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738623889492</id>
+      <title>Black</title>
+      <s:price currency="AUD">230.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738623889492</id>
+      <title>White</title>
+      <s:price currency="AUD">230.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738623889492</id>
+      <title>Charcoal</title>
+      <s:price currency="AUD">230.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738623889492</id>
+      <title>Sage</title>
+      <s:price currency="AUD">230.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738621694036</id>
+    <published>2022-07-31T14:51:31+10:00</published>
+    <updated>2022-07-31T14:51:31+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-butterfly"/>
+    <title>Butterfly</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Ivy-Muse-Butterfly-TN.jpg?v=1659243091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Suited to a wide range of pot size and shapes, this plant stand will give your green friend the boost they need, without taking up too much floorspace.</span></p>
+<p><span data-mce-fragment="1">Beautiful, functional plant stands that encourage creativity with greenery.<br>Designed and made in Melbourne from 8mm powder coated steel.<br>Available in Black, White and Limited Edition Sage.</span></p>
+<p><span data-mce-fragment="1"><br>The Butterfly is suited to a wide range of pot shapes and sizes.<br>Larger pots and drip trays can sit flat on the wide surface area whilst smaller pots can sit within the triangular support.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stands</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738621694036</id>
+      <title>Black</title>
+      <s:price currency="AUD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738621694036</id>
+      <title>White</title>
+      <s:price currency="AUD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738621694036</id>
+      <title>Sage</title>
+      <s:price currency="AUD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738620842068</id>
+    <published>2022-07-31T14:48:27+10:00</published>
+    <updated>2022-07-31T14:48:27+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-air-pom-pom-drop-connector-pole"/>
+    <title>Air Pom-Pom Drop (connector pole)</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/AirPomPom_White_Pole.jpg?v=1659242908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Pair this drop with the Ivy Muse ‘Air Pom Pom’ to create extra length just where you need it.</span></p>
+<p><span data-mce-fragment="1">For those requiring extra length, the Air Pom-Pom Drop is available with two drop heights; 495mm and 695mm.<br><br>Please note this listing is for the Air Pom-Pom Drop only. The Air Pom-Pom (vessel) needs to be purchased separately.<br><br>Designed and made in Melbourne from powder-coated steel. Suitable for indoor and outdoor use.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738620842068</id>
+      <title>Black / 495 mm</title>
+      <s:price currency="AUD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738620842068</id>
+      <title>Black / 695 mm</title>
+      <s:price currency="AUD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738620842068</id>
+      <title>White / 495 mm</title>
+      <s:price currency="AUD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738620842068</id>
+      <title>White / 695 mm</title>
+      <s:price currency="AUD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738619498580</id>
+    <published>2022-07-31T14:44:21+10:00</published>
+    <updated>2022-07-31T14:44:21+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-air-pom-pom"/>
+    <title>Air Pom-Pom</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/AirPomPom_Black_Styled.jpg?v=1659242662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Showcasing a sculputral silhouette, this powder-coated hanging planter offers a way to maximise greenery all the while maintaining a classic, refined form.</span><br><br><span>Designed and made in Melbourne from powder-coated steel.</span><br><br><span>The Air Pom-Pom is available in two sizes (Small &amp; Large) and two colours; Powder Black and Powder White.</span><br><br><span>For those requiring extra length, the Air Pom-Pom is available with two drop heights; 445mm and 645mm.</span><br><span>Hanging Planter Drops are purchased separately.</span><br><br><span>Suitable for indoor and outdoor use.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hangers</s:tag>
+    <s:tag>multiple images</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738619498580</id>
+      <title>Small Black</title>
+      <s:price currency="AUD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738619498580</id>
+      <title>Large White</title>
+      <s:price currency="AUD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738617958484</id>
+    <published>2022-07-31T14:39:19+10:00</published>
+    <updated>2022-07-31T14:39:19+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-x-cisco-the-sun-medium-planter"/>
+    <title>Medium Planter</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_23.jpg?v=1659242360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<div class="px2 md--up--pt0 lg--up--px0 specialexcerpt" data-mce-fragment="1">A collaboration between Ivy Muse and Cisco &amp; The Sun.</div>
+</div>
+<div class="sm--hide" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="px2 md--up--pt0 lg--up--px0" data-mce-fragment="1">
+<div class="selector-wrapper js mt2 font-size--m" data-mce-fragment="1">
+<span data-mce-fragment="1">With a shared commitment to sustainable production and practices, timeless design and minimalist aesthetic, we are thrilled to launch a custom planter collection in collaboration with </span><span data-mce-fragment="1">sustainable handmade ceramic brand</span><span data-mce-fragment="1"> Cisco &amp; the Sun.</span><br><br><span>The collection is available in three sizes and four colourways, all planters have been designed with a drip tray base, ensuring functioning. Perfect for indoor plants in any space at home.</span><br><br><span>Tall and eye-catching, our medium-sized planter is ideal for vertical spaces, creating both depth and beauty.</span><br><span>A perfect fit for medium sized plants like Rhipsalis, Hoya and Orchids.</span><br><br><span>Available in four glazes; Brushed White, Dove Green, Natural Earth  and Dark Ash.</span>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>planters</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738617958484</id>
+      <title>Brushed White</title>
+      <s:price currency="AUD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738617958484</id>
+      <title>Dove Green</title>
+      <s:price currency="AUD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738617958484</id>
+      <title>Natural Earth</title>
+      <s:price currency="AUD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738617958484</id>
+      <title>Dark Ash</title>
+      <s:price currency="AUD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738617040980</id>
+    <published>2022-07-31T14:34:33+10:00</published>
+    <updated>2022-07-31T14:34:33+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-x-cisco-the-sun-large-planter"/>
+    <title>Large Planter</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_22.jpg?v=1659242073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            215.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">With a shared commitment to sustainable production and practices, timeless design and minimalist aesthetic, we are thrilled to launch a custom planter collection in collaboration with sustainable handmade ceramic brand Cisco &amp; the Sun.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The collection is available in three sizes and four colourways, all planters have been designed with a drip tray base, ensuring functionality.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Our large planter is our most dramatic, as beautiful as it is functional. We recommend larger plants like Peace Lily, Devil's ivy baskets, or ZZ plants.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Available in four glazes; Brushed White, Dove Green, Natural Earth  and Dark Ash.</span><br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>planters</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738617040980</id>
+      <title>Brushed White</title>
+      <s:price currency="AUD">215.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738617040980</id>
+      <title>Dove Green</title>
+      <s:price currency="AUD">215.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738617040980</id>
+      <title>Natural Earth</title>
+      <s:price currency="AUD">215.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738617040980</id>
+      <title>Dark Ash</title>
+      <s:price currency="AUD">215.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738616942676</id>
+    <published>2022-07-31T14:28:30+10:00</published>
+    <updated>2022-07-31T14:28:30+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-x-cisco-the-sun-small-planter"/>
+    <title>Small Planter</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_20.jpg?v=1659241711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">A collaboration between Ivy Muse and Cisco &amp; The Sun.</span></p>
+<p><span data-mce-fragment="1">With a shared commitment to sustainable production and practices, timeless design and minimalist aesthetic, we are thrilled to launch a custom planter collection in collaboration with </span><span data-mce-fragment="1">sustainable handmade ceramic brand</span><span data-mce-fragment="1"> Cisco &amp; the Sun.</span><br><br><span>The collection is available in three sizes and four colourways, all planters have been designed with a drip tray base, ensuring functioning. Perfect for indoor plants in any space at home.</span><br><br><span>This vessel suits small plants like Hoya, Succulents and Heart-leaf Philodendron and can be situated in any room that needs a stunning yet subtle lift.</span><br><br><span>Available in four glazes; Brushed White, Dove Green, Natural Earth  and Dark Ash.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>planters</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738616942676</id>
+      <title>Brushed White</title>
+      <s:price currency="AUD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738616942676</id>
+      <title>Dove Green</title>
+      <s:price currency="AUD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738616942676</id>
+      <title>Natural Earth</title>
+      <s:price currency="AUD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738616942676</id>
+      <title>Dark Ash</title>
+      <s:price currency="AUD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738616189012</id>
+    <published>2022-07-31T13:55:15+10:00</published>
+    <updated>2022-07-31T13:55:15+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-hourglass-plant-pedestal"/>
+    <title>Hourglass Plant Pedestal</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_05.jpg?v=1659239746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Crafted from powder-coated steel, this plant platform features an inbuilt table-top to make it multi-functional, perfect not only for plants but for all your table needs and in-between.</span></p>
+<p><span>Beautiful, functional plant stands that allow you to get creative with your greenery.</span><br><br><span>Designed and made in Melbourne from 8mm powder coated steel.</span><br><br><span>The 'Hourglass' is back. . . reimagined for 2020. Introducing the 'Hourglass Plant Pedestal'. Crafted from powder-coated steel, this plant platform features an inbuilt table-top to make it multi-functional, perfect not only for plants but for all your table needs and in-between.</span><br><br><span>Available in Black, White and Limited Edition Champagne *new*.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stands</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738616189012</id>
+      <title>Blanco</title>
+      <s:price currency="AUD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738616189012</id>
+      <title>Negro</title>
+      <s:price currency="AUD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738616189012</id>
+      <title>Champagne</title>
+      <s:price currency="AUD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738616123476</id>
+    <published>2022-07-31T13:52:40+10:00</published>
+    <updated>2022-07-31T13:52:40+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-lily-spun-metal-pot"/>
+    <title>Lily Spun Metal Pot</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_14.jpg?v=1659239560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Complement medium to large size plants with the ‘Lily’ pot and its soft, feminine form.</span><span data-mce-fragment="1"><br><br>Designed and made in Melbourne from powder-coated spun aluminium.<br><br>Available in Black, White, Limited Edition Cinnamon *new* and Limited Edition Champagne *new*.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pots</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738616123476</id>
+      <title>Black</title>
+      <s:price currency="AUD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738616123476</id>
+      <title>White</title>
+      <s:price currency="AUD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738616123476</id>
+      <title>Cinnamon</title>
+      <s:price currency="AUD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738616123476</id>
+      <title>Champagne</title>
+      <s:price currency="AUD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738615992404</id>
+    <published>2022-07-31T13:48:26+10:00</published>
+    <updated>2022-07-31T13:48:26+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-peacock-plant-stake"/>
+    <title>Peacock Plant Stake</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_12.jpg?v=1659239307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Turn the natural beauty of your plants into a vertical work of art with this eye-catching plant stake.</span></p>
+<p><span data-mce-fragment="1">Turn the natural beauty of your plants into a vertical work of art.<br><br>Trailing or climbing plants can be wound upwards or attach your Monstera Deliciosa or Philodendrons to the stake to support its growth.<br><br>Designed and made in Melbourne from 6mm powder coated steel. Available in two standard colours; Black, White and four limited edition colours; Charcoal *new*, Sage *new*, Halcyon and Sherbet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stakes</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615992404</id>
+      <title>Black</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615992404</id>
+      <title>White</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615992404</id>
+      <title>Oyster</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615992404</id>
+      <title>Olive</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738615926868</id>
+    <published>2022-07-31T13:45:43+10:00</published>
+    <updated>2022-07-31T13:45:43+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-loop-plant-stake"/>
+    <title>Loop Plant Stake</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_10.jpg?v=1659239143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The original designer plant stake created to take your plant game to the next level.</span></p>
+<p><span data-mce-fragment="1">Turn the natural beauty of your plants into a vertical work of art.<br><br>Trailing or climbing plants can be wound upwards or attach your Monstera Deliciosa or Philodendrons to the stake to support its growth.<br><br>Designed and made in Melbourne from 6mm powder coated steel. Available in two standard colours; Black, White and four limited edition colours; Charcoal *new*, Sage *new*, Halcyon and Sherbet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stakes</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615926868</id>
+      <title>Black</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615926868</id>
+      <title>White</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615926868</id>
+      <title>Charcoal</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615926868</id>
+      <title>Sage</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615926868</id>
+      <title>Sherbet</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738615599188</id>
+    <published>2022-07-31T13:40:50+10:00</published>
+    <updated>2022-07-31T13:40:50+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-dot-plant-stake"/>
+    <title>Dot Plant Stake</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_06.jpg?v=1659238851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Attach trailing or climbing plants, like monstera deliciosa or philodendrons to this Melbourne-made plant stake to support their growth with style.</span></p>
+<p><span data-mce-fragment="1">Turn the natural beauty of your plants into a vertical work of art with our 'Dot' plant stake.<br><br>Trailing or climbing plants can be wound upwards or attach your larger plants like Monstera Deliciosa or Philodendrons to support their growth.<br><br>Designed and made in Melbourne from 8mm powder coated steel. Available in two standard colours; Black, White and three limited edition colours; Charcoal *new*, Sage *new* and Sherbet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stakes</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615599188</id>
+      <title>Black</title>
+      <s:price currency="AUD">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615599188</id>
+      <title>White</title>
+      <s:price currency="AUD">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615599188</id>
+      <title>Charcoal</title>
+      <s:price currency="AUD">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615599188</id>
+      <title>Sage</title>
+      <s:price currency="AUD">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615599188</id>
+      <title>Sherbet</title>
+      <s:price currency="AUD">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738615500884</id>
+    <published>2022-07-31T13:37:53+10:00</published>
+    <updated>2022-07-31T13:37:53+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-1-5ltr-indoor-watering-can"/>
+    <title>1.5ltr Indoor Watering Can</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Watering_Can_Styled_2.jpg?v=1659238673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">With its soft curves and beautiful form, this lightweight watering can is not only a plant care necessity for every home, but a decorative keepsake in itself.</span></p>
+<p><span data-mce-fragment="1">A simple and classic design reimagined by Ivy Muse.<br><br>Available in three colours exclusive to Ivy Muse; Black, Limited Edition Charcoal *new* and Limited Edition Sage *new*.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615500884</id>
+      <title>Black</title>
+      <s:price currency="AUD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615500884</id>
+      <title>Charcoal</title>
+      <s:price currency="AUD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615500884</id>
+      <title>Sage</title>
+      <s:price currency="AUD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

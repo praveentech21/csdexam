@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cascade-preset-2.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://cascade-preset-2.myshopify.com/blogs/news.atom"/>
+  <title>Cascade - Journal</title>
+  <updated>2022-09-12T16:19:17+10:00</updated>
+  <author>
+    <name>Cascade</name>
+  </author>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/blogs/news/fertilising-tips</id>
+    <published>2022-09-12T16:19:17+10:00</published>
+    <updated>2022-09-12T16:19:19+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/blogs/news/fertilising-tips"/>
+    <title>Fertilising tips</title>
+    <author>
+      <name>cascade-preset-2 Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span>Fertilising your plants can be intimidating. Too much and you may cause root rot. Too little and you may be denying your plants a chance to grow bigger and fuller. So what do you need to think about when you want to fertilise your plants?</span></p>
+<meta charset="utf-8">
+<p>Most important is timing. Spring is the best time to fertilise your plants as they are about to enter a naturally productive growth phase. The best way to think about fertiliser is as a sidekick to the potting mix you're using. The soil will be full of nutrients for the plant to absorb. However, after a period of time the plant will have absorbed all the nutrients it can from the soil. That's where you step in with fertiliser, to keep the plant growing. Essentially, you're feeding it. </p>
+<p>There are different types of fertilisers. As a general rule, try to aim to use a natural fertiliser, not a synthetic one. One common type is liquid. Usually this will be a concentrated mix of something like seaweed that you need to mix with water to dilute it. If you keep it too concentrated, you run the risk of essentially poisoning your plant. Another option is a granular fertiliser, which is basically fertiliser pellets that you mix in with your potting soil. These tend to work better for outdoor plants or gardens - again, you run the risk of overloading your indoor plant if you put these in a smaller tub. </p>
+<meta charset="utf-8">
+<p>Once you've found a fertilising mix that works for you and your plants, aim to top up the fertiliser once roughly every month, depending on your plants. </p>
+<p>Make sure to keep an eye on them in the coming months - if you're adding too much fertiliser the leaves will start to droop and die. If that happens, best to cut back a bit and stick to watering for a while until they regain their strength. </p>
+<p>Happy planting!</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/blogs/news/how-to-use-light</id>
+    <published>2022-09-12T16:16:17+10:00</published>
+    <updated>2022-09-12T16:16:18+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/blogs/news/how-to-use-light"/>
+    <title>How to use light</title>
+    <author>
+      <name>cascade-preset-2 Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>As many plant parents know, the most important elements of keeping a plant alive are water, light and fertiliser. But what exactly is indirect light? How do you know where to put your plant for ideal light coverage? Why can't you just put all plants next to the window and be done with it? How come plants that grow naturally outside have different light requirements when they're inside? We're here to answer all your questions. </p>
+<p>Remember a few years ago when we first started using smart phones and suddenly there was an app for everything? Believe it or not, there's an app for measuring the amount of light a given area receives. You'll need to do some research into the light requirements of your particular plants but once you do you can use the app to figure where the best place to put them in your house. </p>
+<meta charset="utf-8">
+<p>When reading about lighting conditions for plants, you'll see the term 'indirect light' used a lot. It can be confusing - what does it mean? Essentially, it means that your plant needs to be covered in light throughout the day but never have sunshine falling right on its leaves. In practice, this means that you should put plants that need indirect light near the window, but not right on the windowsill. Dracaena, snake plants and maidenhair ferns are examples of some plants that do well in indirect light. </p>
+<p>On the other hand, bright light is where you have sunlight falling directly on the plant. This means putting plants in front of a souther or western-facing window where it will get light the majority of the day. Low light is good for plants like ferns and philodendrons. </p>
+<p>If you need some more assistance you can also get special growing lights from your local nursery. These help facilitate growth because they're easier to control. You can turn them on and off as you need to make sure the plant gets what it needs. However, this does mean that you need to allow for the lamp as part of your decor. Our products have been designed to highlight the beauty of your houseplants, not with a unsightly lamp in the way! If you're a casual indoor gardener, we recommend sticking to the natural stuff - sunshine is the best light for all plants. </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/blogs/news/pop-up-store</id>
+    <published>2022-09-12T16:14:29+10:00</published>
+    <updated>2022-09-12T16:14:30+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/blogs/news/pop-up-store"/>
+    <title>Pop-Up Store</title>
+    <author>
+      <name>cascade-preset-2 Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span>To celebrate the start of the spring we're hosting a pop-up in the Royal Botanical Gardens for the next 3 weeks. </span></p>
+<meta charset="utf-8">
+<p>We'll be showcasing a range of new products, including our new Butterfly plant stand. What could be a more perfect way to celebrate spring?</p>
+<p>We're also going to be working with the staff of the Botanical Gardens to to hold a series of workshops about all the different native and tropical plants they have in their collection. Great news for readers who think they're not capable of keeping their plants alive - we'll be giving you all the tips you need to keep your plants green and thriving in the coming months. </p>]]>
+    </content>
+  </entry>
+</feed>

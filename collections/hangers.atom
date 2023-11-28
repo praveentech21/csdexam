@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cascade-preset-2.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cascade-preset-2.myshopify.com/collections/hangers.atom"/>
+  <title>Cascade</title>
+  <updated>2022-07-31T15:39:03+10:00</updated>
+  <author>
+    <name>Cascade</name>
+  </author>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738635751508</id>
+    <published>2022-07-31T15:39:03+10:00</published>
+    <updated>2022-07-31T15:39:03+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-woven-hanger"/>
+    <title>Woven Hanger</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Woven_Hanger_Styled.jpg?v=1659245943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">'Woven Hanger ' is a hand - woven leather and ceramic plant hanger, the result of an exclusive collaboration with Melbourne-based leather craftswoman Kym Lightfoot.</span></p>
+<p><span data-mce-fragment="1">Designed and made in Melbourne from hand-glazed stoneware and hand-woven leather.<br>Available in two colours; Cloud and Ivory.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hangers</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738635751508</id>
+      <title>Cloud</title>
+      <s:price currency="AUD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738635751508</id>
+      <title>Ivory</title>
+      <s:price currency="AUD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738634440788</id>
+    <published>2022-07-31T15:34:39+10:00</published>
+    <updated>2022-07-31T15:34:39+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-stevie-wall-hook"/>
+    <title>Stevie Wall Hook</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Stevie_Styled.jpg?v=1659245679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Attaching to the wall, 'Stevie' can team with a variety of hanging planters and can help maximise your wall space for plant-life.</span></p>
+<p><span data-mce-fragment="1">Our Stevie Wall Hook was created for those who love the idea of a hanging plant - but hate the idea of drilling into their ceiling. 'Stevie' can team with a variety of hanging planters and can help you to maximise your wall space for plant-life.<br><br>Designed and made in Melbourne from powder-coated steel.<br>Available in two sizes and in two colours; Black and White.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hangers</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738634440788</id>
+      <title>Small / Black</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738634440788</id>
+      <title>Small / White</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738634440788</id>
+      <title>Big / Black</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738634440788</id>
+      <title>Big / White</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738619498580</id>
+    <published>2022-07-31T14:44:21+10:00</published>
+    <updated>2022-07-31T14:44:21+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-air-pom-pom"/>
+    <title>Air Pom-Pom</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/AirPomPom_Black_Styled.jpg?v=1659242662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Showcasing a sculputral silhouette, this powder-coated hanging planter offers a way to maximise greenery all the while maintaining a classic, refined form.</span><br><br><span>Designed and made in Melbourne from powder-coated steel.</span><br><br><span>The Air Pom-Pom is available in two sizes (Small &amp; Large) and two colours; Powder Black and Powder White.</span><br><br><span>For those requiring extra length, the Air Pom-Pom is available with two drop heights; 445mm and 645mm.</span><br><span>Hanging Planter Drops are purchased separately.</span><br><br><span>Suitable for indoor and outdoor use.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hangers</s:tag>
+    <s:tag>multiple images</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738619498580</id>
+      <title>Small Black</title>
+      <s:price currency="AUD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738619498580</id>
+      <title>Large White</title>
+      <s:price currency="AUD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738615304276</id>
+    <published>2022-07-31T13:34:41+10:00</published>
+    <updated>2022-07-31T13:34:41+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-t-bar-hanging-planter"/>
+    <title>T-Bar Hanging Planter</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_04.jpg?v=1659238481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Turn any plant into a cascading work of art with this powder-coated steel hanging planter.</span></p>
+<p><span data-mce-fragment="1">Introducing the 'T-Bar Hanging Planter'. Turn your plants into natural works of art.<br><br>The T-Bar Hanging Planter is available in two sizes (Small &amp; Large) and three colours; Black, White and Limited Edition Cinnamon *new*.<br><br>Designed and made in Melbourne from powder-coated steel. Suitable for indoor and outdoor use.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hangers</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615304276</id>
+      <title>Small / Black</title>
+      <s:price currency="AUD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615304276</id>
+      <title>Small / White</title>
+      <s:price currency="AUD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615304276</id>
+      <title>Small / Cinnamon</title>
+      <s:price currency="AUD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615304276</id>
+      <title>Large / Black</title>
+      <s:price currency="AUD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615304276</id>
+      <title>Large / White</title>
+      <s:price currency="AUD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615304276</id>
+      <title>Large / Cinnamon</title>
+      <s:price currency="AUD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cascade-preset-2.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cascade-preset-2.myshopify.com/collections/stakes.atom"/>
+  <title>Cascade</title>
+  <updated>2022-07-31T15:28:42+10:00</updated>
+  <author>
+    <name>Cascade</name>
+  </author>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738632638548</id>
+    <published>2022-07-31T15:28:42+10:00</published>
+    <updated>2022-07-31T15:28:42+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-mini-plant-stake-sand"/>
+    <title>Mini Plant Stake</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/Mini_Stakes_Sand.jpg?v=1659245323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Turn the natural beauty of your plants into a vertical work of art with this handmade powder-coated mini stake, ideal for small to medium plants.</span></p>
+<p><span>You asked for a mini sized plant stake - and we listened!</span><br><span>Introducing our latest labour of love, our Mini Plant Stake range!</span><br><br><span>Available in three unique designs for purchase individually.</span><br><span>Ideal for pots 10cm to 20cm.</span><br><span>Hand-crafted from 4mm powder-coated steel.</span><br><span>Designed in Melbourne.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stakes</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738632638548</id>
+      <title>Loop</title>
+      <s:price currency="AUD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738632638548</id>
+      <title>Arch</title>
+      <s:price currency="AUD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738632638548</id>
+      <title>Circle</title>
+      <s:price currency="AUD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738615992404</id>
+    <published>2022-07-31T13:48:26+10:00</published>
+    <updated>2022-07-31T13:48:26+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-peacock-plant-stake"/>
+    <title>Peacock Plant Stake</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_12.jpg?v=1659239307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Turn the natural beauty of your plants into a vertical work of art with this eye-catching plant stake.</span></p>
+<p><span data-mce-fragment="1">Turn the natural beauty of your plants into a vertical work of art.<br><br>Trailing or climbing plants can be wound upwards or attach your Monstera Deliciosa or Philodendrons to the stake to support its growth.<br><br>Designed and made in Melbourne from 6mm powder coated steel. Available in two standard colours; Black, White and four limited edition colours; Charcoal *new*, Sage *new*, Halcyon and Sherbet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stakes</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615992404</id>
+      <title>Black</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615992404</id>
+      <title>White</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615992404</id>
+      <title>Oyster</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615992404</id>
+      <title>Olive</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738615926868</id>
+    <published>2022-07-31T13:45:43+10:00</published>
+    <updated>2022-07-31T13:45:43+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-loop-plant-stake"/>
+    <title>Loop Plant Stake</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_10.jpg?v=1659239143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The original designer plant stake created to take your plant game to the next level.</span></p>
+<p><span data-mce-fragment="1">Turn the natural beauty of your plants into a vertical work of art.<br><br>Trailing or climbing plants can be wound upwards or attach your Monstera Deliciosa or Philodendrons to the stake to support its growth.<br><br>Designed and made in Melbourne from 6mm powder coated steel. Available in two standard colours; Black, White and four limited edition colours; Charcoal *new*, Sage *new*, Halcyon and Sherbet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stakes</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615926868</id>
+      <title>Black</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615926868</id>
+      <title>White</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615926868</id>
+      <title>Charcoal</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615926868</id>
+      <title>Sage</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615926868</id>
+      <title>Sherbet</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738615599188</id>
+    <published>2022-07-31T13:40:50+10:00</published>
+    <updated>2022-07-31T13:40:50+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-dot-plant-stake"/>
+    <title>Dot Plant Stake</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_06.jpg?v=1659238851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Attach trailing or climbing plants, like monstera deliciosa or philodendrons to this Melbourne-made plant stake to support their growth with style.</span></p>
+<p><span data-mce-fragment="1">Turn the natural beauty of your plants into a vertical work of art with our 'Dot' plant stake.<br><br>Trailing or climbing plants can be wound upwards or attach your larger plants like Monstera Deliciosa or Philodendrons to support their growth.<br><br>Designed and made in Melbourne from 8mm powder coated steel. Available in two standard colours; Black, White and three limited edition colours; Charcoal *new*, Sage *new* and Sherbet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stakes</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615599188</id>
+      <title>Black</title>
+      <s:price currency="AUD">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615599188</id>
+      <title>White</title>
+      <s:price currency="AUD">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615599188</id>
+      <title>Charcoal</title>
+      <s:price currency="AUD">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615599188</id>
+      <title>Sage</title>
+      <s:price currency="AUD">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738615599188</id>
+      <title>Sherbet</title>
+      <s:price currency="AUD">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cascade-preset-2.myshopify.com/products/6738475352148</id>
+    <published>2022-07-30T23:31:13+10:00</published>
+    <updated>2022-07-30T23:31:13+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://cascade-preset-2.myshopify.com/products/ivy-muse-gemini-plant-stake"/>
+    <title>Gemini Plant Stake</title>
+    <s:type></s:type>
+    <s:vendor>cascade-preset-2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/8490/0692/products/20210623_IvyMuseSS21_08.jpg?v=1659187874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>cascade-preset-2<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="static-title" data-mce-fragment="1">With three intertwined legs for extra support, turn the natural beauty of your plants into a vertical work of art with our 'Gemini' stake.<br>
+</div>
+<div class="static-content" data-mce-fragment="1">
+<br data-mce-fragment="1">Trailing or climbing plants can be wound upwards or attach your larger Monstera Deliciosa or Philodendrons to the stake to support their growth.<br data-mce-fragment="1"><br data-mce-fragment="1">Designed and made in Melbourne from 6mm powder coated steel.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stakes</s:tag>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738475352148</id>
+      <title>Black</title>
+      <s:price currency="AUD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738475352148</id>
+      <title>White</title>
+      <s:price currency="AUD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738475352148</id>
+      <title>Charcoal</title>
+      <s:price currency="AUD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cascade-preset-2.myshopify.com/products/6738475352148</id>
+      <title>Sage</title>
+      <s:price currency="AUD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
